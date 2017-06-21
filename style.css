@@ -29,7 +29,7 @@ a {
 
 .header {
   width: 1000px;
-  margin: 0 auto;
+  margin: 50px auto;
   background: white;
   padding: 30px;
   border-radius: 4px;
@@ -45,7 +45,7 @@ a {
 
 .profile {
   width: 1000px;
-  margin: 0 auto;
+  margin: 10px auto;
   background: white;
   padding: 30px;
   border-radius: 4px;
@@ -55,7 +55,7 @@ a {
 
 .social_network{
   width: 1000px;
-  margin: 0 auto;
+  margin: 10px auto;
   background: white;
   padding: 30px;
   border-radius: 4px;
